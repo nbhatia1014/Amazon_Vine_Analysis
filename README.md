@@ -40,7 +40,7 @@ Shown below are the results of the data when filtered by the Amazon Vine program
 ## Summary:
 
 ### Comparison / Bias
-
+Overall, the non-paid reviews had a larger sample when compared to the paid reviews. That being said, the paid reviews overall were likely to be 5-stars. This could present a positivity bias towards the reviews coming from teh vine program. However, with the lack of sample it could also be a selection bias. Additionally, we could do the df.stats function to show the statistical distribution and determine if there is any data that needs to be removed.
 
 
 
